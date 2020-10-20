@@ -4,8 +4,8 @@
     "port": 465,
     "secure": true,
     "auth": {
-      "user": "89032547792@mail.ru",
-      "pass": "Canada985560"
+      "user": "<your-login@mail.ru>",
+      "pass": "<your-pass>"
     }
   },
   "imap": {
@@ -13,8 +13,8 @@
     "port": 993,
     "secure": true,
     "auth": {
-      "user": "89032547792@mail.ru",
-      "pass": "Canada985560"
+      "user": "<your-login@mail.ru>",
+      "pass": "<your-pass>"
     }
   }
 }
